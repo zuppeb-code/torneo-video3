@@ -1,4 +1,4 @@
-const VOTE_ENDPOINT = "https://script.google.com/macros/s/AKfycbxiNb1rkynUu9QmoWigE_Fr3sDbkGL0udQP-HDP2YmoFLRikpa4lbg-xbTCm608bq5Iog/exec"; // <-- SOSTITUISCI QUI con il tuo URL /exec
+const VOTE_ENDPOINT = "https://script.google.com/macros/s/AKfycbw37BsW6t-RMhbjBDZTjvFa1W8bSXFzAkYzpaZ3aF_5vcveWySCngg0abiodWAFbYcLCw/exec"; // <-- SOSTITUISCI QUI con il tuo URL /exec
 
 const videos = [
   "https://res.cloudinary.com/di8xgmagx/video/upload/v1762869539/video_22_croppato_e_resized_2_alfqf0.mp4",
